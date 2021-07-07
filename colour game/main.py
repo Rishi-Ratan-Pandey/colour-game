@@ -65,9 +65,3 @@ colour_label=Label(root,text='',font=('Arial Rounded MT Bold',55,'bold'))
 colour_label.place(x=136,y=45)
 root.bind('<Return>',add_point)
 mainloop()
-# remove calling support in reminder app.
-# check age calculator is giving accurate age.......
-# count down soud effect if the point is less then 10!!!
-# like 1,2,3,4,5,6,7,8,9,10!!
-# how does a game is enjoable....
-# check tommorw.
